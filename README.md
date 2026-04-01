@@ -64,13 +64,14 @@ power coupled to thecollinear to that in the main arm, in dB. This value is arou
 **F.	Observation**
 
 **Isolation measurement** (Tabulation)
-
+<img width="1076" height="204" alt="523500502-0fbb1c76-114f-4eee-879c-9cbb1dbb5450" src="https://github.com/user-attachments/assets/81d97771-d5ce-4c15-9f4c-d99d070d7d98" />
 **Measurement of power division** (Tabulation)
 
-![510534509-54eb8148-ba8e-4846-a11e-83823fc7267a](https://github.com/user-attachments/assets/9295d8d0-cb92-4947-bc42-aa61005f4f1e)
+<img width="1080" height="224" alt="523500516-063f8346-7061-4bae-a795-0ea16315fc21" src="https://github.com/user-attachments/assets/eb50d067-8bbe-4c7d-a359-2b51cac236fc" />
+
 
 **G.	Analysis of Results**: 
-![510534581-b9a362ae-ba6b-4847-8bd8-f4ef88b1e949](https://github.com/user-attachments/assets/00a84646-c91a-445d-983c-545ca1d2023b)
+Isolation = A₁ − A₂ = 20.0 − 1.0 = 19.0 dB. Interpretation: only ~1/79 of the power fed into the E-arm appears at the H-arm (good isolation). Power division (coupling to collinear arm) = A₁ − A₂ = 20.0 − 17.0 = 3.0 dB. Interpretation: input power splits equally between the two collinear arms (each receives ≈ half the power).
 
 
 
@@ -86,4 +87,4 @@ Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
 •	Observation should be taken properly.
 
 **Result:**
-The isolation between the E and H arms of the magic tee was successfully measured and found to be within the expected range, indicating proper isolation between the ports. The power division between the collinear arms was observed to be approximately 3 dB, confirming that the magic tee equally divides the input power into two arms with minimal loss. Thus, the magic tee functions effectively as a hybrid junction for power division and signal isolation in microwave systems.
+Isolation between E and H arms ≈ 19 dB; power division in the collinear arms ≈ 3 dB (equal split).
