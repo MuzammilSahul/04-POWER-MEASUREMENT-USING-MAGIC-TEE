@@ -87,4 +87,5 @@ Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
 •	Observation should be taken properly.
 
 **Result:**
+
 Isolation between E and H arms ≈ 19 dB; power division in the collinear arms ≈ 3 dB (equal split).
