@@ -61,16 +61,18 @@ Coupling (dB) = 10 log10 PC1/ PH = -10 log10 PC2/ PH.
 The difference in the attenuator settings gives the ration of the
 power coupled to thecollinear to that in the main arm, in dB. This value is around 3dB.
 
-**F.	Observation: ( Include your own Table relevant to the Experiment)**
+**F.	Observation
 
 **Isolation measurement** (Tabulation)
 
 **Measurement of power division** (Tabulation)
 
+![510534509-54eb8148-ba8e-4846-a11e-83823fc7267a](https://github.com/user-attachments/assets/9295d8d0-cb92-4947-bc42-aa61005f4f1e)
 
-**G.	Analysis of Results: (Write your own)**
+**G.	Analysis of Results**: 
+![510534581-b9a362ae-ba6b-4847-8bd8-f4ef88b1e949](https://github.com/user-attachments/assets/00a84646-c91a-445d-983c-545ca1d2023b)
 
-(Include sample calculations/Display/plot/typical graph)
+
 
 **H.	Conclusions: (Write your Own)**
 
@@ -84,3 +86,4 @@ Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
 •	Observation should be taken properly.
 
 **Result:**
+The isolation between the E and H arms of the magic tee was successfully measured and found to be within the expected range, indicating proper isolation between the ports. The power division between the collinear arms was observed to be approximately 3 dB, confirming that the magic tee equally divides the input power into two arms with minimal loss. Thus, the magic tee functions effectively as a hybrid junction for power division and signal isolation in microwave systems.
